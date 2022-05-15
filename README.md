@@ -4,4 +4,4 @@
 - 💞️ I’m looking for a new job in electronics (hardware and software), in an english speaking environment somewhere else than Belgium where I currently live. 
 It's okay if the local language outside of work is not english, I can learn. I want a new experience, to learn new things and to meet new people.
 Ideally I would love to work in a company with an inspiring mission and great values, that is helpful to humanity.
-- 📫 The best way to contact me for a job currently is through my [linkedin profile](https://www.linkedin.com/in/francoislaboureur/). I will try to answer you if you mention that you had a look at my github profile.
+- 📫 The best way to contact me for a job currently is through my [linkedin profile](https://www.linkedin.com/in/francoislaboureur/).
